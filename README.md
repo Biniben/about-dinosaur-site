@@ -1,2 +1,2 @@
 # about-dinosaur-site
-scrimba class project number 1
+scrimba class project first
